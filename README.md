@@ -1,5 +1,6 @@
-# Netflix
-Site com algumas funções
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106880265/181688202-5ecb3d18-d9f7-41ec-be05-7201996c44d5.png" width="300px" />
+</div>
 
 ### Objective: 
 
