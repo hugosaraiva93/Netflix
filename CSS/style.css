@@ -1,0 +1,144 @@
+:root{
+    --vermelho: #E50914;
+    --preto: #141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Elementos base*/
+
+body {
+    background-color: var(--preto);
+    font-family: 'Arial', Times, serif;
+    color: white;
+}
+
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start; 
+}
+header .container .itens {
+    margin-left: auto;
+}
+
+header .logo img {
+    margin-left: 17px;
+    margin-top: 10px;
+    height: 30px;
+    margin-right: 50px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+header nav a:hover {
+    color: #fff;
+}
+
+.itens {
+   margin-left: 0px;
+   align-items: center;
+   display: flex;
+   flex-direction: row;
+}
+
+.itens a {
+    text-decoration: none;
+    color: #ffff;
+    margin-right: 25px;
+}
+
+.itens a:hover {
+    color: #aaa;
+}
+
+.perfil {
+    height: 20px;
+    align-items: center;
+    border-radius: 10%;
+}
+
+/*Filme principal*/
+
+.filme-principal {
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/Img/Peak-Blinders.jpg');
+   
+    height: 550px;
+    background-size: cover;
+    box-shadow: 0px 2px 55px 29px rgba(0,0,0,0.82) inset;
+    -webkit-box-shadow: 0px 2px 55px 29px rgba(0,0,0,0.82) inset;
+    -moz-box-shadow: 0px 2px 55px 29px rgba(0,0,0,0.82) inset;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+#mais {display: none}
+
+.titulo {
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.botao {
+    background-color: rgba(0, 0, 0,.50);
+    border: none;
+    color: white;
+    border-radius: 5%;
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    align-items: center;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+}
+
+.botao i {
+    margin-right: 8px;
+    font-size: 15px;
+    align-items: center;
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.filme-principal .container {
+    width: 60%;
+}
+
+.box-filme {
+    height: 100%;
+    width: 100%;
+    display: block;
+    border-radius: 2%;
+}
+
+.carrosel-filmes {
+    margin-top: 5px;
+}
+
