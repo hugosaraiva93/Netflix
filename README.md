@@ -12,7 +12,7 @@ On the logged in page as shown in the icons and with the infinite loop in the mo
 ## Tecnologias Utilizadas
 * HTML
 * CSS
-* JS
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
 
 ## PROJECT CREATED FROM
 * Dio santander
