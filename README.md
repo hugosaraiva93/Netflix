@@ -19,8 +19,4 @@ Na página logada conforme mostrado nos ícones existe o loop infinito nas opç�
 <img align:"center"; height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
-## Plataforma
-
-* Dio santander
-* https://web.dio.me/home
 
