@@ -2,15 +2,14 @@
 <img src="https://user-images.githubusercontent.com/106880265/181688202-5ecb3d18-d9f7-41ec-be05-7201996c44d5.png" width="200px" />
 </div>
 
-### Objetivo: 
-
-* Recriar o site da netflix com alguma função.(loop na escolha dos filmes)
-
 ## Descrição do Projeto
 
 * Eu o recriei usando a função em JavaScript que esconde a sinopse do filme principal.
 Na página logada conforme mostrado nos ícones existe o loop infinito nas opções do filme.
 
+### Objetivo: 
+
+* Recriar o site da netflix com a função.(loop na escolha dos filmes)
 
 ## Tecnologias Utilizadas
 <div style="display: inline_block">
